@@ -64,10 +64,7 @@ map f :call ShowFuncName() <LF>
 call plug#begin('~/.vim/plugged')
 
 Plug 'udalov/kotlin-vim'
-Plug 'jalvesaq/Nvim-R', {'branch': 'stable'}
-Plug 'gaalcaras/ncm-R'
 Plug 'doums/darcula'
-Plug 'mcchrish/nnn.vim'
 
 call plug#end()
 
