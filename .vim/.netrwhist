@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =1
+let g:netrw_dirhist_1='/home/josh/repos/dotfiles'
+let g:netrw_dirhist_0='/home/josh/Documents/covers/craigs-investment-partners'
+let g:netrw_dirhist_9='/home/josh/Documents/covers'
+let g:netrw_dirhist_8='/home/josh/uni/242'
+let g:netrw_dirhist_7='/home/josh/uni/242/08'
+let g:netrw_dirhist_6='/home/josh/uni/242'
+let g:netrw_dirhist_5='/home/josh/uni/242/08'
+let g:netrw_dirhist_4='/home/josh/uni/242/05/struct'
+let g:netrw_dirhist_3='/home/josh/repos/straker'
+let g:netrw_dirhist_2='/home/josh/uni/242/05/struct'
