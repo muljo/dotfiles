@@ -1,0 +1,14 @@
+- defaults:
+    link:
+      relink: true
+
+- clean: ['~']
+
+- link:
+    ~/.vim: .vim
+    ~/.vimrc: .vimrc
+    ~/.bashrc: .bashrc
+
+- create:
+    - ~/downloads
+    - ~/.vim/undo-history
