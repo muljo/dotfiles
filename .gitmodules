@@ -1,7 +1,6 @@
 [submodule "darcula"]
 	path = .vim/plugged/darcula
 	url = https://github.com/doums/darcula
-	branch = master
 [submodule "emmet-vim"]
 	path = .vim/plugged/emmet-vim
 	url = https://github.com/mattn/emmet-vim
