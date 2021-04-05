@@ -66,6 +66,7 @@ call plug#begin('~/.vim/plugged')
 Plug 'udalov/kotlin-vim'
 Plug 'doums/darcula'
 Plug 'gko/vim-coloresque'
+Plug 'mattn/emmet-vim'
 
 call plug#end()
 
