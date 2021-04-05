@@ -1,5 +1,7 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =5
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/home/josh/repos/dotfiles/.vim'
+let g:netrw_dirhist_6='/home/josh/Android'
 let g:netrw_dirhist_5='/home/josh/Documents/covers/ad-instruments'
 let g:netrw_dirhist_4='/home/josh/Documents/covers'
 let g:netrw_dirhist_3='/home/josh/Documents/covers/ad-instruments'
@@ -8,5 +10,3 @@ let g:netrw_dirhist_1='/home/josh/uni/242/16'
 let g:netrw_dirhist_0='/home/josh/uni/242'
 let g:netrw_dirhist_9='/home/josh/uni'
 let g:netrw_dirhist_8='/home/josh'
-let g:netrw_dirhist_7='/home/josh/Desktop'
-let g:netrw_dirhist_6='/home/josh/uni/242/16/include'

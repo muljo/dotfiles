@@ -1,0 +1,13 @@
+[submodule "darcula"]
+	path = .vim/plugged/darcula
+	url = https://github.com/doums/darcula
+	branch = master
+[submodule "emmet-vim"]
+	path = .vim/plugged/emmet-vim
+	url = https://github.com/mattn/emmet-vim
+[submodule "kotlin-vim"]
+	path = .vim/plugged/kotlin-vim
+	url = https://github.com/udalov/kotlin-vim
+[submodule "vim-coloresque"]
+	path = .vim/plugged/vim-coloresque
+	url = https://github.com/gko/vim-coloresque
