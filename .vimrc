@@ -58,7 +58,6 @@ endif
 " https://vim.fandom.com/wiki/Get_the_name_of_the_current_file
 autocmd Filetype rmd map <F5> :!echo<space>"require(rmarkdown);<space>render('%')"<space>\|<space>R<space>--vanilla<enter>
 
-
 map f :call ShowFuncName() <LF>
 " Vim Plug plugin manager
 call plug#begin('~/.vim/plugged')
@@ -67,6 +66,8 @@ Plug 'udalov/kotlin-vim'
 Plug 'doums/darcula'
 Plug 'gko/vim-coloresque'
 Plug 'mattn/emmet-vim'
+Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
+Plug 'junegunn/fzf.vim'
 
 call plug#end()
 
