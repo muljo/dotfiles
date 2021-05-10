@@ -12,4 +12,7 @@
 	url = https://github.com/gko/vim-coloresque
 [submodule "fzf"]
 	path = .vim/plugged/fzf
-	url = https://github.com/junegunn
+	url = https://github.com/junegunn/fzf
+[submodule "fzf.vim"]
+	path = .vim/plugged/fzf.vim
+	url = https://github.com/junegunn/fzf.vim
