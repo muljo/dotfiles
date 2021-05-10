@@ -164,3 +164,7 @@ n ()
             rm -f "$NNN_TMPFILE" > /dev/null
     fi
 }
+
+#THIS MUST BE AT THE END OF THE FILE FOR SDKMAN TO WORK!!!
+export SDKMAN_DIR="/home/josh/.sdkman"
+[[ -s "/home/josh/.sdkman/bin/sdkman-init.sh" ]] && source "/home/josh/.sdkman/bin/sdkman-init.sh"
