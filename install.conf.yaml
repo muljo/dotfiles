@@ -7,7 +7,7 @@
 - link:
     ~/.vim: .vim
     ~/.vimrc: .vimrc
-    ~/.bashrc: .bashrc
+    ~/.bashrc: .bashrc.d/.bashrc
 
 - create:
     - ~/downloads
