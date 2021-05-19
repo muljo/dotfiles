@@ -19,3 +19,6 @@
 [submodule "fzf.vim"]
 	path = .vim/plugged/fzf.vim
 	url = https://github.com/junegunn/fzf.vim
+[submodule "editorconfig-vim"]
+	path = .vim/plugged/editorconfig-vim
+	url = https://github.com/editorconfig/editorconfig-vim

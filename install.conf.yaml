@@ -6,8 +6,10 @@
 
 - link:
     ~/.vim: .vim
-    ~/.vimrc: .vimrc
-    ~/.bashrc: .bashrc.d/.bashrc
+    ~/.vimrc: .vim/.vimrc
+
+    ~/.bashrc: .bash/.bashrc
+    ~/.profile: .bash/.profile
 
 - create:
     - ~/downloads
