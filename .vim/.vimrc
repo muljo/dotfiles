@@ -66,6 +66,8 @@ Plug 'gko/vim-coloresque'
 Plug 'mattn/emmet-vim'
 Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
 Plug 'junegunn/fzf.vim'
+
+" Editor config should be last to override options set by other plugins
 Plug 'editorconfig/editorconfig-vim'
 
 call plug#end()
