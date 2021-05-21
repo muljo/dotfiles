@@ -1,5 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =0
+let g:netrw_dirhistcnt =1
+let g:netrw_dirhist_1='/home/josh/prof/CBA_Accounting/WebApp'
 let g:netrw_dirhist_0='/home/josh/repos/dotfiles/.vim/plugged/darcula'
 let g:netrw_dirhist_9='/home/josh/repos/dotfiles/.vim/plugged'
 let g:netrw_dirhist_8='/home/josh/repos/RazorPagesMovie'
@@ -9,4 +10,3 @@ let g:netrw_dirhist_5='/home/josh/Downloads/phase2/accounts-service/src/test/jav
 let g:netrw_dirhist_4='/home/josh/Documents/covers/intergen'
 let g:netrw_dirhist_3='/home/josh/Documents/covers/youtap'
 let g:netrw_dirhist_2='/home/josh/Documents/covers'
-let g:netrw_dirhist_1='/home/josh/repos/latitude-coding-challenge/app/src/test/java/latitude/coding'
