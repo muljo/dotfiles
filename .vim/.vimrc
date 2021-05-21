@@ -57,8 +57,6 @@ if has('syntax') && has('eval')
 endif
 " https://vim.fandom.com/wiki/Get_the_name_of_the_current_file
 autocmd Filetype rmd map <F5> :!echo<space>"require(rmarkdown);<space>render('%')"<space>\|<space>R<space>--vanilla<enter>
-
-map f :call ShowFuncName() <LF>
 " Vim Plug plugin manager
 call plug#begin('~/.vim/plugged')
 
