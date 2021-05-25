@@ -72,5 +72,7 @@ Plug 'editorconfig/editorconfig-vim'
 
 call plug#end()
 
+let g:EditorConfig_verbose=1
+
 " Default colourscheme
 colorscheme darcula
